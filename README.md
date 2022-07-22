@@ -48,5 +48,6 @@ The detailed view of the program will provide further detail about the program. 
 ### Contributors
 
 Data Collection: Alex Hiser (https://github.com/ahiser1117) and Garry Gao (https://github.com/GarryGao00)
+
 App Development: Mingi Lee (https://github.com/mingilee98)
 
